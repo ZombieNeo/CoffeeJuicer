@@ -1,0 +1,26 @@
+body{ background-image:url(coff.jpg);
+    padding: 5px;
+    font-family: 'Poppins', sans-serif
+    
+}
+p {
+    color:white;
+    
+}
+h1 {
+    color: white;
+}
+.boxed {
+    border: 5px solid white;
+    border-radius: 5px;
+    background-color: lightblue;
+    padding-bottom: 25px;
+    opacity: 100%; 
+ 
+  }
+.NAV{
+    border: 5px solid white;
+    border-radius: 5px;
+    background-color: lightblue;
+    margin-bottom: 25px;
+  }
