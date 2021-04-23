@@ -18,7 +18,7 @@ h1 {                                          /*H1 stuff*/
     background-color: lightblue;
     padding-bottom: 25px;
     opacity: 100%; 
- 
+    padding: left
   }
 .NAV{                                       /*NAV bar is used to navigate site ez clap*/
     border: 5px solid white;
