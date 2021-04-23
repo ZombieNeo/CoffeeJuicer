@@ -50,3 +50,7 @@ img{
 .underline {text-decoration: underline; /*gave it its own variable because it maeks it more effiecent*/
 
 }  
+marquee{
+    color:#25aff8;
+    text-shadow: 1px 1px #948f8f;
+}
