@@ -1,4 +1,9 @@
-body{ background-image:url(coff.jpg);           /*body kinda scuffed but hey it works*/
+.background{
+    filter:blur(50px);
+}
+
+
+body{background-image:url(img/coff.jpg);      /*body kinda scuffed but hey it works*/
     padding: 5px;
     font-family: 'Poppins', sans-serif
     
@@ -17,7 +22,7 @@ h1 {                                          /*H1 stuff*/
     border-radius: 5px;
     background-color: lightblue;
     padding-bottom: 25px;
-    opacity: 100%; 
+    opacity: 95%; 
     padding: left
   }
 .NAV{                                       /*NAV bar is used to navigate site ez clap*/
@@ -25,11 +30,13 @@ h1 {                                          /*H1 stuff*/
     border-radius: 5px;
     background-color: lightblue;
     margin-bottom: 25px;
+    opacity: 95%; 
   }
 
 img{
-    border: 5px solid black;
+    border: 5px solid #ff99ff;
     border-radius: 5px;
+    
 }
 .footer {                            /*footer is cool dont know if i will use */
     margin-top: 100px;
@@ -37,12 +44,13 @@ img{
     border-radius: 5px;
     background-color: lightblue;
     padding-bottom: 5px;
-    opacity: 100%; 
+    opacity: 95%; 
  
 }
 .underline {text-decoration: underline; /*gave it its own variable because it maeks it more effiecent*/
 
+}  
+marquee{
+    color:#25aff8;
+    text-shadow: 1px 1px #948f8f;
 }
-
-
-
