@@ -1,7 +1,29 @@
 .background{
     filter:blur(50px);
 }
-
+a:link {
+    color: #25aff8;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #25aff8;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #25aff8;
+    background-color: transparent;
+    
+  }
+  
+  a:active {
+    color: y#25aff8;
+    background-color: transparent;
+    
+  }
 
 body{background-image:url(img/coff.jpg);      /*body kinda scuffed but hey it works*/
     padding: 5px;
